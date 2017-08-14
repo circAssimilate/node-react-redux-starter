@@ -73,8 +73,6 @@ class App extends Component {
       this.setState({
         newTodo: '',
       });
-    } else {
-      alert('Please enter something')
     }
   }
 
